@@ -1,0 +1,36 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+sistemaAgendaFrontend/dist
+sistemaAgendaFrontend/tmp
+sistemaAgendaBackend/target/
+
+
+# dependencies
+sistemaAgendaFrontend/node_modules
+sistemaAgendaFrontend/bower_components
+
+# IDEs and editors
+sistemaAgendaFrontend/.idea
+sistemaAgendaFrontend/.vscode
+sistemaAgendaFrontend/.project
+sistemaAgendaFrontend/.classpath
+sistemaAgendaFrontend/*.launch
+sistemaAgendaFrontend/settings/
+
+# misc
+sistemaAgendaFrontend/.sass-cache
+sistemaAgendaFrontend/connect.lock
+sistemaAgendaFrontend/coverage/*
+sistemaAgendaFrontend/libpeerconnection.log
+sistemaAgendaFrontend/npm-debug.log
+sistemaAgendaFrontend/testem.log
+sistemaAgendaFrontend/typings
+
+# e2e
+sistemaAgendaFrontend/e2e/*.js
+sistemaAgendaFrontend/e2e/*.map
+
+#System Files
+sistemaAgendaFrontend/.DS_Store
+sistemaAgendaFrontend/Thumbs.db
